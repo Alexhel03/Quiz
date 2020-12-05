@@ -1,0 +1,10 @@
+C:\Users\Alex\Desktop\PVA\KVÍZ_Helísek\KVÍZ_Helísek\obj\Debug\KVÍZ_Helísek.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\PVA\KVÍZ_Helísek\KVÍZ_Helísek\obj\Debug\KVÍZ_Helísek.Form1.resources
+C:\Users\Alex\Desktop\PVA\KVÍZ_Helísek\KVÍZ_Helísek\obj\Debug\KVÍZ_Helísek.Properties.Resources.resources
+C:\Users\Alex\Desktop\PVA\KVÍZ_Helísek\KVÍZ_Helísek\obj\Debug\KVÍZ_Helísek.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\PVA\KVÍZ_Helísek\KVÍZ_Helísek\obj\Debug\KVÍZ_Helísek.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\PVA\KVÍZ_Helísek\KVÍZ_Helísek\bin\Debug\KVÍZ_Helísek.exe.config
+C:\Users\Alex\Desktop\PVA\KVÍZ_Helísek\KVÍZ_Helísek\bin\Debug\KVÍZ_Helísek.exe
+C:\Users\Alex\Desktop\PVA\KVÍZ_Helísek\KVÍZ_Helísek\bin\Debug\KVÍZ_Helísek.pdb
+C:\Users\Alex\Desktop\PVA\KVÍZ_Helísek\KVÍZ_Helísek\obj\Debug\KVÍZ_Helísek.exe
+C:\Users\Alex\Desktop\PVA\KVÍZ_Helísek\KVÍZ_Helísek\obj\Debug\KVÍZ_Helísek.pdb
